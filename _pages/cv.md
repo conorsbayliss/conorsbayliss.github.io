@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, University of Minnesota (in progress)
+* MSc in Economics, University of Liverpool, 2021
+* BSc in Mathematics and Economics, University of Liverpool, 2020
 
 Work experience
 ======
