@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, University of Minnesota (in progress)
+* PhD in Economics, University of Minnesota (in progress)
 * MSc in Economics, University of Liverpool, 2021
 * BSc in Mathematics and Economics, University of Liverpool, 2020
 
